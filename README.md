@@ -1,4 +1,4 @@
-# Welcome, I'm Romain Castagné   <a href="https://www.linkedin.com/in/romain-castagn%C3%A9-2a01a7130/"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
+# Hi, I'm Romain Castagné 👋 <a href="https://www.linkedin.com/in/romain-castagn%C3%A9-2a01a7130/"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
 
 I'm an industrial IT specialist with a strong focus on data management and automation. My expertise lies in **PowerShell**, **Python**, and **C#**, with a specialization in working with **PI System** (AVEVA / OSIsoft PI). I enjoy solving complex industrial challenges through data-driven solutions.
 I have participated in various missions centered around industrial data management in fields such as **Energy (Oil & Gas)**, **Chemicals**, **Electric Vehicle Battery Manufacturing**, **Pharmaceuticals**, and **Forestry**. 
