@@ -3,14 +3,12 @@
 ## About Me
 I'm an industrial IT specialist with a strong focus on data management and automation. My expertise lies in **PowerShell**, **Python**, and **C#**, with a specialization in working with **PI Systems** (AVEVA / OSIsoft PI). I enjoy solving complex industrial challenges through data-driven solutions.
 
-## Technologies I Work With
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,powershell,cs,html,css,javascript,git,windows&perline=8" />
   </a>
 </p>
 
-## GitHub Stats
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CastagneSenpai&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
