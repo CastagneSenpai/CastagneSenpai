@@ -14,7 +14,7 @@ I'm an industrial IT specialist with a strong focus on data management and autom
 </p>
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=CastagneSenpai&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CastagneSenpai&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 ## Connect With Me
