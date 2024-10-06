@@ -7,15 +7,11 @@ I'm an industrial IT specialist with a strong focus on data management and autom
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,powershell,cs,html,css,javascript,git,windows&perline=8" />
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CastagneSenpai&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <a href="https://visitcount.itsvg.in">
+   <img src="https://visitcount.itsvg.in/api?id=CastagneSenpai&label=Profile%20Views&color=3&icon=5&pretty=true" />
+  </a>
 </p>
-
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CastagneSenpai&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-</p>
-
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=CastagneSenpai&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
-</div>
 
 ## Connect With Me
 <p align="center">
