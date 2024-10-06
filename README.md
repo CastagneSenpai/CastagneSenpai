@@ -4,6 +4,7 @@
 I'm an industrial IT specialist with a strong focus on data management and automation. My expertise lies in **PowerShell**, **Python**, and **C#**, with a specialization in working with **PI Systems** (AVEVA / OSIsoft PI). I enjoy solving complex industrial challenges through data-driven solutions.
 
 <p align="center">
+  <br> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,powershell,cs,html,css,javascript,git,windows&perline=8" />
   </a>
