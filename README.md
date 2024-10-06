@@ -14,7 +14,7 @@ I have participated in various missions centered around industrial data manageme
 
 ## Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,powershell,c,cs,cpp,vscode,html,css,javascript,git,windows,stackoverflow,php,symfony&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,powershell,c,cs,cpp,vscode,html,css,javascript,git,windows,stackoverflow,php,symfony&perline=14" />
   </a>  <br> <br>
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CastagneSenpai&theme=dark&hide_border=false&no-bg=true&layout=compact&no-frame=true&langs_count=5"/>
   <a href="https://visitcount.itsvg.in">
