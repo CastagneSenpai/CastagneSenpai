@@ -11,6 +11,8 @@ I'm an industrial IT specialist with a strong focus on data management and autom
   <br> <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CastagneSenpai&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
   <br> <br>
+  [![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastagneSenpai)](https://github.com/anuraghazra/github-readme-stats)
+  <br> <br>
   <a href="https://visitcount.itsvg.in">
    <img src="https://visitcount.itsvg.in/api?id=CastagneSenpai&label=Profile%20Views&color=3&icon=5&pretty=true" />
   </a>
