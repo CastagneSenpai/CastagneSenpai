@@ -1,4 +1,4 @@
-# Welcome 👋, I'm Romain Castagné  <a href="mailto:romain.castagne40@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail--v1.png" alt="email" height="50" width="50" /></a>   <a href="https://www.linkedin.com/in/romain-castagn%C3%A9-2a01a7130/"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
+# Welcome 👋, I'm Romain Castagné     <a href="mailto:romain.castagne40@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail--v1.png" alt="email" height="50" width="50" /></a>   <a href="https://www.linkedin.com/in/romain-castagn%C3%A9-2a01a7130/"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
 
 
 
