@@ -14,12 +14,13 @@ I'm an industrial IT specialist with a strong focus on data management and autom
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=romaincastagne&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=romaincastagne&theme=dark&hide_border=false" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CastagneSenpai&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
+
+
 
 ## Connect With Me
 <p align="center">
-  <a href="mailto:romain.castagne@example.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail--v1.png" alt="email" height="50" width="50" /></a>
-  <a href="https://linkedin.com/in/romaincastagne"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="mailto:romain.castagne40@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail--v1.png" alt="email" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/romain-castagn%C3%A9-2a01a7130/"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
 </p>
-
