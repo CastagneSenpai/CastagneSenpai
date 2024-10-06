@@ -6,7 +6,7 @@ I'm an industrial IT specialist with a strong focus on data management and autom
 ## Technologies I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,powershell,cs,docker,grafana,nginx,git,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,powershell,cs,html,css,javascript,git,windows&perline=8" />
   </a>
 </p>
 
