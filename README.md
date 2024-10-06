@@ -1,7 +1,7 @@
 # Welcome 👋, I'm Romain Castagné
 
 ## About Me
-I'm an industrial IT specialist with a strong focus on data management and automation. My expertise lies in **PowerShell**, **Python**, and **C#**, with a specialization in working with **PI Systems** (AVEVA / OSIsoft PI). I enjoy solving complex industrial challenges through data-driven solutions.
+I'm an industrial IT specialist with a strong focus on data management and automation. My expertise lies in **PowerShell**, **Python**, and **C#**, with a specialization in working with **PI System** (AVEVA / OSIsoft PI). I enjoy solving complex industrial challenges through data-driven solutions.
 
 <p align="center">
   <br> <br>
@@ -11,7 +11,7 @@ I'm an industrial IT specialist with a strong focus on data management and autom
   <br> <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CastagneSenpai&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
   <br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastagneSenpai)](https://github.com/anuraghazra/github-readme-stats)
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CastagneSenpai&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   <br> <br>
   <a href="https://visitcount.itsvg.in">
    <img src="https://visitcount.itsvg.in/api?id=CastagneSenpai&label=Profile%20Views&color=3&icon=5&pretty=true" />
